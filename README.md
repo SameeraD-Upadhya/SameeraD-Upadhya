@@ -13,7 +13,7 @@ Aspiring Software Engineer • Cybersecurity & AI Enthusiast • Full-Stack Deve
 <!-- Pixel Art -->
 
 <p align="center">
-  <img src="./assets/pixel-art.png" width="700" alt="Sameera D Upadhya Pixel Art"/>
+  <img src="https://drive.google.com/file/d/13bpuUpKv6vqzV4vVtgQ0cOt1YVi2S5J7/view?usp=sharing" width="700" alt="Sameera D Upadhya Pixel Art"/>
 </p>
 
 ---
